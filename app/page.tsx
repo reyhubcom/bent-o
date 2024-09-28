@@ -8,7 +8,7 @@ export default function Home() {
                 <div className="col-span-6 md:col-span-4 row-span-2">
                     <div className="flex h-full flex-wrap gap-4 content-center bg-neutral-300/20 sm:aspect-auto relative p-8 sm:p-12 border border-neutral-400/30 rounded-xl shadow-sm overflow-hidden ">
                         <div className="content flex gap-4 flex-wrap max-w-60 sm:max-w-72 md:max-w-52 lg:max-w-64 relative z-10">
-                            <h1 className="font-bold text-xl sm:text-3xl md:text-2xl mb-0">Crypto Batik</h1>
+                            <h2 className="font-bold text-xl sm:text-3xl md:text-2xl mb-0">Crypto Batik</h2>
                             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                             <div className="inline-flex">
                                 <Button link="https://github.com/christian-luntok/bent-o" className="mt-4" target="_blank">
