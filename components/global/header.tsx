@@ -23,8 +23,8 @@ export const Header = () => {
                     </h1>
                 </div>
                 <div className="inline-flex items-center gap-2 list-none space-x-2">
-                    <Button link="https://github.com/christian-luntok/bent-o" target="_blank">
-                        Download bent-o
+                    <Button link="https://linktr.ee/cryptobatik" target="_blank">
+                        OPEN APP
                     </Button>
                 </div>
             </div>
