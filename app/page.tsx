@@ -12,7 +12,7 @@ export default function Home() {
                             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                             <div className="inline-flex">
                                 <Button link="https://github.com/christian-luntok/bent-o" className="mt-4" target="_blank">
-                                    Cool Button!
+                                    Open App
                                 </Button>
                             </div>
                         </div>
